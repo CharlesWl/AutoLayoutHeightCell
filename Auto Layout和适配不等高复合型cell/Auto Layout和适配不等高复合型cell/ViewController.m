@@ -18,6 +18,9 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    /**
+     *  真的可以啦！！！！！
+     */
     self.WLTV.delegate = self;
     self.WLTV.dataSource = self;
 //    UINib *nib = [UINib nibWithNibName:@"TableViewCell" bundle:nil];
