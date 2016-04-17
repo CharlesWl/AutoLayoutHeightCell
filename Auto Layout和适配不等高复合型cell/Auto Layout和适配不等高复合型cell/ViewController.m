@@ -19,7 +19,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     /**
-     *  真的可以啦！！！！！
+     *  真的可以啦！！！！！试试看
      */
     self.WLTV.delegate = self;
     self.WLTV.dataSource = self;
